@@ -1,2 +1,0 @@
-import jutt
-jutt.reg()
