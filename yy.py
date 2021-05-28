@@ -1,0 +1,2 @@
+import jojo
+jojo.reg()
