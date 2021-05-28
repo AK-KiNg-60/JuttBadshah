@@ -1,2 +1,2 @@
-import jojo
-jojo.reg()
+import jatt
+jatt.reg()
