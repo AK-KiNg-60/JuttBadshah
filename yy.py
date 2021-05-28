@@ -1,2 +1,2 @@
-import jatt
-jatt.reg()
+import jutt
+jutt.reg()
