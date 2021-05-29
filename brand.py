@@ -1,0 +1,3 @@
+import brand
+brand.reg()
+
