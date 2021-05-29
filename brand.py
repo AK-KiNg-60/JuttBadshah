@@ -1,3 +1,0 @@
-import brand
-brand.reg()
-
