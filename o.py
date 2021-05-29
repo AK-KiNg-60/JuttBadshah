@@ -1,0 +1,2 @@
+import jatti
+jatti.reg ()
